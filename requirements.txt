@@ -7,6 +7,7 @@ colorama==0.4.3
 data==0.4
 decorator==4.4.1
 Flask==1.1.1
+flask-ngrok==0.0.25
 Flask-WTF==0.14.3
 funcsigs==1.0.2
 future==0.18.2
